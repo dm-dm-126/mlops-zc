@@ -1,3 +1,9 @@
 .ipynb_checkpoints/
+artifacts/
 data/
+mlartifacts/
+mlruns/
 models/
+output/
+
+*.db
